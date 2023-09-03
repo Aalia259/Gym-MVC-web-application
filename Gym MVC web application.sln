@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33927.289
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gym MVC web application", "Gym MVC web application\Gym MVC web application.csproj", "{9F1BF5FA-B33D-48EB-BCD5-A7CB44D3F89B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F1BF5FA-B33D-48EB-BCD5-A7CB44D3F89B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F1BF5FA-B33D-48EB-BCD5-A7CB44D3F89B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F1BF5FA-B33D-48EB-BCD5-A7CB44D3F89B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F1BF5FA-B33D-48EB-BCD5-A7CB44D3F89B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06906FB2-DA0C-484E-B8C4-6ECD28A9D653}
+	EndGlobalSection
+EndGlobal
